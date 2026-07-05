@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Omaxe Super Corridor Indore | Premium Residential Plots</title>
+<meta name="description" content="Omaxe Super Corridor Indore – 450-acre premium integrated township. Residential plots from 800–5000 sq ft at ₹2,800/sq ft. Book now." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --blue:#1565c0;--blue-dark:#0d47a1;--blue-mid:#1976d2;--blue-light:#e3f0fb;
+    --red:#d32f2f;--red-light:#ffebee;
+    --gold:#c9a84c;--gold-light:#e0c070;
+    --dark:#0a1628;--dark-mid:#112240;--dark-surface:#1a3a5c;
+    --text:#f0f4f8;--text-muted:#9ab0c8;
+    --border:rgba(21,101,192,0.25);--border-light:rgba(255,255,255,0.12);
+    --ff-display:'Playfair Display',Georgia,serif;
+    --ff-body:'Source Sans 3',sans-serif;
+    --white:#ffffff;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:#f5f7fa;color:#1a2a3a;font-family:var(--ff-body);font-weight:400;line-height:1.7;overflow-x:hidden;}
+  nav{position:fixed;top:0;left:0;right:0;z-index:200;display:flex;align-items:center;justify-content:space-between;padding:.7rem 2.5rem;background:var(--white);box-shadow:0 2px 16px rgba(13,71,161,.13);gap:1rem;transition:padding .3s;}
+  .nav-logo-wrap{display:flex;align-items:center;gap:.7rem;text-decoration:none;}
+  .nav-logo-img{height:48px;width:auto;display:block;object-fit:contain;}
+  .nav-logo-text{font-family:var(--ff-display);font-size:1rem;font-weight:600;color:var(--blue-dark);line-height:1.2;}
+  .nav-links{display:flex;gap:1.4rem;list-style:none;}
+  .nav-links a{color:#334;text-decoration:none;font-size:.82rem;letter-spacing:.04em;font-weight:500;transition:color .2s;padding:.3rem 0;border-bottom:2px solid transparent;}
+  .nav-links a:hover{color:var(--blue);border-bottom-color:var(--blue);}
+  .nav-right{display:flex;align-items:center;gap:.6rem;flex-shrink:0;}
+  .lang-toggle{display:flex;border:1.5px solid var(--blue);border-radius:2px;overflow:hidden;}
+  .lang-btn{background:none;border:none;padding:.3rem .65rem;font-family:var(--ff-body);font-size:.75rem;font-weight:600;color:var(--blue);cursor:pointer;transition:.2s;}
+  .lang-btn.active{background:var(--blue);color:#fff;}
+  .nav-cta{background:var(--red);color:#fff;border:none;padding:.55rem 1.3rem;font-family:var(--ff-body);font-size:.82rem;font-weight:600;letter-spacing:.05em;cursor:pointer;transition:.2s;text-decoration:none;white-space:nowrap;border-radius:2px;}
+  .nav-cta:hover{background:var(--blue-dark);}
+  .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;background:none;border:none;padding:4px;}
+  .hamburger span{display:block;width:24px;height:2px;background:var(--blue-dark);}
+  .hero{min-height:100vh;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4rem 5rem;position:relative;overflow:hidden;background:linear-gradient(150deg,var(--dark) 0%,var(--dark-mid) 50%,var(--blue-dark) 100%);}
+  .hero-bg-pattern{position:absolute;inset:0;opacity:.05;background-image:repeating-linear-gradient(45deg,#fff 0,#fff 1px,transparent 0,transparent 50%);background-size:20px 20px;}
+  .hero-accent{position:absolute;top:0;right:0;width:55%;height:100%;background:linear-gradient(135deg,transparent 30%,rgba(21,101,192,.18) 100%);pointer-events:none;}
+  .hero-badge{display:inline-flex;align-items:center;gap:.6rem;background:rgba(211,47,47,.15);border:1px solid rgba(211,47,47,.4);padding:.45rem 1.1rem;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:#ff8080;margin-bottom:1.8rem;position:relative;}
+  .hero-badge::before{content:'';display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--red);animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(1.4)}}
+  .hero h1{font-family:var(--ff-display);font-size:clamp(2.4rem,5.5vw,4.8rem);font-weight:700;line-height:1.1;max-width:740px;color:var(--white);position:relative;}
+  .hero h1 em{font-style:italic;color:var(--gold);}
+  .hero-sub{max-width:540px;color:rgba(255,255,255,.75);font-size:1.05rem;margin-top:1.5rem;position:relative;line-height:1.8;}
+  .hero-actions{display:flex;gap:1rem;flex-wrap:wrap;margin-top:2.5rem;position:relative;}
+  .btn-primary{background:var(--red);color:#fff;border:none;padding:.9rem 2.2rem;font-family:var(--ff-body);font-size:.9rem;font-weight:600;letter-spacing:.06em;cursor:pointer;transition:.2s;text-decoration:none;display:inline-block;border-radius:2px;}
+  .btn-primary:hover{background:#b71c1c;transform:translateY(-2px);box-shadow:0 6px 20px rgba(211,47,47,.35);}
+  .btn-outline{background:transparent;color:#fff;border:2px solid rgba(255,255,255,.4);padding:.85rem 2.2rem;font-family:var(--ff-body);font-size:.9rem;font-weight:500;cursor:pointer;transition:.2s;text-decoration:none;display:inline-block;border-radius:2px;}
+  .btn-outline:hover{border-color:var(--gold);color:var(--gold);}
+  .hero-stats{display:flex;gap:3rem;flex-wrap:wrap;margin-top:4rem;padding-top:2rem;border-top:1px solid rgba(255,255,255,.15);position:relative;}
+  .hero-stat-num{font-family:var(--ff-display);font-size:2.2rem;font-weight:700;color:var(--gold);line-height:1;}
+  .hero-stat-label{font-size:.73rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.55);margin-top:.3rem;}
+  .scroll-indicator{position:absolute;right:4rem;bottom:4rem;display:flex;flex-direction:column;align-items:center;gap:.5rem;color:rgba(255,255,255,.4);font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;}
+  .scroll-line{width:1px;height:50px;background:linear-gradient(var(--gold),transparent);animation:scroll-anim 2s ease-in-out infinite;}
+  @keyframes scroll-anim{0%{height:0;opacity:1}100%{height:50px;opacity:0}}
+  .highlights{background:var(--blue);padding:3rem 4rem;}
+  .highlights-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:2rem;}
+  .highlight-item{text-align:center;padding:1rem;border-right:1px solid rgba(255,255,255,.15);}
+  .highlight-item:last-child{border-right:none;}
+  .highlight-num{font-family:var(--ff-display);font-size:2.6rem;font-weight:700;color:#fff;line-height:1;}
+  .highlight-label{font-size:.76rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.65);margin-top:.4rem;}
+  section{padding:6rem 4rem;}
+  .section-label{font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--blue);font-weight:600;margin-bottom:.8rem;}
+  .section-title{font-family:var(--ff-display);font-size:clamp(1.9rem,3.5vw,3rem);font-weight:700;line-height:1.2;max-width:640px;color:var(--dark-mid);}
+  .section-title em{font-style:italic;color:var(--red);}
+  .divider{width:56px;height:3px;background:linear-gradient(to right,var(--blue),var(--red));margin:1.4rem 0 2.5rem;border-radius:2px;}
+  .section-light{background:#fff;}
+  .about{background:#fff;}
+  .about-grid{display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center;margin-top:3rem;}
+  .about-img-wrap{position:relative;aspect-ratio:4/5;background:linear-gradient(135deg,var(--blue-light),#ddeeff);border:2px solid var(--border);overflow:hidden;border-radius:4px;}
+  .about-note{position:absolute;bottom:-1rem;right:-1rem;background:var(--blue);color:#fff;padding:1.2rem 1.5rem;z-index:3;font-weight:600;font-size:.95rem;line-height:1.4;border-radius:2px;box-shadow:0 8px 24px rgba(13,71,161,.25);}
+  .about-content p{color:#445;margin-bottom:1.2rem;font-size:.97rem;line-height:1.8;}
+  .about-features{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin-top:2rem;}
+  .about-feature{display:flex;align-items:center;gap:.75rem;font-size:.88rem;color:#334;font-weight:500;}
+  .about-feature::before{content:'✔';color:var(--blue);font-size:.9rem;flex-shrink:0;}
+
+  /* ══════════════════════════════════════
+     AMENITIES — screenshot-matched style
+     White cards · SVG line icons · 5 cols
+  ══════════════════════════════════════ */
+  .amenities{background:#f7f7f7;}
+  .amenities-grid{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);
+    gap:18px;
+    margin-top:2.5rem;
+  }
+  .amenity-card{
+    background:#fff;
+    border:1px solid #e4e4e4;
+    border-radius:12px;
+    padding:2.2rem 1rem 1.8rem;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-start;
+    gap:.9rem;
+    text-align:center;
+    transition:box-shadow .22s,border-color .22s,transform .22s;
+    cursor:default;
+  }
+  .amenity-card:hover{
+    box-shadow:0 8px 28px rgba(0,0,0,.08);
+    border-color:#ccc;
+    transform:translateY(-4px);
+  }
+  .amenity-icon-wrap{
+    width:68px;height:68px;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .amenity-icon-wrap svg{
+    width:60px;height:60px;
+    stroke:#5a5a5a;
+    fill:none;
+    stroke-width:1.5;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+  }
+  .amenity-name{
+    font-size:.84rem;
+    font-weight:400;
+    color:#555;
+    line-height:1.35;
+    font-family:var(--ff-body);
+  }
+
+  /* Gallery */
+  .gallery{background:var(--blue-light);}
+  .gallery-tabs{display:flex;gap:0;margin-top:2.5rem;border-bottom:2px solid rgba(21,101,192,.15);flex-wrap:wrap;}
+  .gallery-tab{padding:.75rem 1.8rem;font-size:.84rem;font-weight:600;cursor:pointer;border:none;background:transparent;color:#778;letter-spacing:.05em;transition:.2s;border-bottom:3px solid transparent;margin-bottom:-2px;}
+  .gallery-tab.active{color:var(--blue);border-bottom-color:var(--blue);}
+  .gallery-tab:hover:not(.active){color:var(--blue-mid);}
+  .gallery-panel{display:none;margin-top:2rem;}
+  .gallery-panel.active{display:block;}
+  .gallery-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;}
+  .gallery-item{position:relative;aspect-ratio:4/3;background:linear-gradient(135deg,#c8d8f0,#a8c0e8);border-radius:6px;overflow:hidden;cursor:pointer;transition:.3s;}
+  .gallery-item:hover{transform:scale(1.02);box-shadow:0 12px 32px rgba(13,71,161,.2);}
+  .gallery-item-inner{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.6rem;}
+  .gallery-item-icon{font-size:2.5rem;opacity:.35;}
+  .gallery-item-label{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(13,71,161,.6);font-weight:600;}
+  .gallery-item-overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(13,71,161,.6) 0%,transparent 60%);opacity:0;transition:.3s;}
+  .gallery-item:hover .gallery-item-overlay{opacity:1;}
+  .gallery-item-caption{position:absolute;bottom:0;left:0;right:0;padding:1rem;color:#fff;font-size:.82rem;font-weight:600;transform:translateY(100%);transition:.3s;}
+  .gallery-item:hover .gallery-item-caption{transform:translateY(0);}
+  .work-status{position:absolute;top:.75rem;right:.75rem;padding:.25rem .7rem;border-radius:20px;font-size:.68rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;}
+  .status-active{background:#e8f5e9;color:#2e7d32;}
+  .status-complete{background:#e3f2fd;color:#1565c0;}
+  .cert-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem;}
+  .cert-card{background:#fff;border:1.5px solid rgba(21,101,192,.15);border-radius:6px;padding:1.8rem 1.2rem;text-align:center;transition:.3s;box-shadow:0 2px 8px rgba(13,71,161,.05);}
+  .cert-card:hover{border-color:var(--blue);box-shadow:0 8px 24px rgba(13,71,161,.12);transform:translateY(-3px);}
+  .cert-icon{font-size:2.5rem;margin-bottom:.8rem;}
+  .cert-name{font-size:.88rem;font-weight:700;color:var(--dark-mid);margin-bottom:.3rem;}
+  .cert-body{font-size:.75rem;color:#778;}
+  .cert-badge{display:inline-block;margin-top:.8rem;background:var(--blue-light);color:var(--blue);font-size:.68rem;font-weight:700;padding:.2rem .65rem;border-radius:20px;letter-spacing:.05em;}
+  /* Other projects */
+  .other-projects{background:#fff;}
+  .projects-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2rem;margin-top:3rem;}
+  .project-card{border-radius:8px;overflow:hidden;border:1px solid rgba(21,101,192,.1);transition:.3s;box-shadow:0 2px 12px rgba(13,71,161,.06);}
+  .project-card:hover{transform:translateY(-6px);box-shadow:0 16px 40px rgba(13,71,161,.15);}
+  .project-card-img{height:220px;position:relative;overflow:hidden;}
+  .project-card-img-bg{width:100%;height:100%;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:.6rem;transition:.3s;}
+  .project-card:hover .project-card-img-bg{transform:scale(1.05);}
+  .proj-city1{background:linear-gradient(135deg,#1a3a7a,#2563b0);}
+  .proj-city2{background:linear-gradient(135deg,#7a1a2a,#b02545);}
+  .proj-hills{background:linear-gradient(135deg,#1a5c3a,#2a8f5a);}
+  .project-tag{position:absolute;top:1rem;left:1rem;background:rgba(255,255,255,.9);color:var(--dark-mid);font-size:.7rem;font-weight:700;padding:.3rem .75rem;border-radius:20px;letter-spacing:.05em;}
+  .project-card-body{padding:1.8rem;}
+  .project-name{font-family:var(--ff-display);font-size:1.3rem;font-weight:700;color:var(--dark-mid);margin-bottom:.3rem;}
+  .project-location{font-size:.78rem;color:var(--blue);font-weight:600;letter-spacing:.05em;text-transform:uppercase;margin-bottom:.8rem;}
+  .project-desc{font-size:.85rem;color:#556;line-height:1.7;margin-bottom:1rem;}
+  .project-features{display:flex;flex-wrap:wrap;gap:.4rem;}
+  .project-feature-tag{background:var(--blue-light);color:var(--blue);font-size:.7rem;font-weight:600;padding:.2rem .65rem;border-radius:20px;}
+  .project-cta{display:inline-flex;align-items:center;gap:.4rem;margin-top:1.2rem;font-size:.82rem;color:var(--blue);font-weight:600;text-decoration:none;letter-spacing:.04em;transition:gap .2s;}
+  .project-cta:hover{gap:.7rem;color:var(--blue-dark);}
+  .project-img-icon{font-size:3rem;opacity:.3;color:#fff;}
+  .project-img-label{font-size:.78rem;color:rgba(255,255,255,.5);letter-spacing:.08em;text-transform:uppercase;}
+  /* Location */
+  .location{background:var(--blue-light);}
+  .location-grid{display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:start;margin-top:3rem;}
+  .location-map{aspect-ratio:4/3;background:var(--dark-surface);border:2px solid var(--border);overflow:hidden;border-radius:6px;box-shadow:0 8px 24px rgba(13,71,161,.15);}
+  .location-map iframe{width:100%;height:100%;border:none;display:block;}
+  .location-points{list-style:none;display:flex;flex-direction:column;gap:1rem;}
+  .location-point{display:flex;gap:1rem;align-items:flex-start;padding-bottom:1rem;border-bottom:1px solid rgba(21,101,192,.12);}
+  .location-point:last-child{border-bottom:none;}
+  .lp-icon{width:38px;height:38px;border-radius:50%;background:var(--blue);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:.9rem;}
+  .lp-label{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);font-weight:600;}
+  .lp-value{font-size:.9rem;color:#334;}
+  /* Developer */
+  .developer{background:#fff;}
+  .developer-grid{display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:center;margin-top:3rem;}
+  .dev-logo-wrap{background:var(--blue-light);padding:2.5rem;border-radius:8px;display:flex;align-items:center;justify-content:center;border:1px solid rgba(21,101,192,.12);}
+  .dev-stats{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin-top:2rem;}
+  .dev-stat{padding:1.5rem;border:1px solid rgba(21,101,192,.12);background:var(--blue-light);border-radius:4px;}
+  .dev-stat-num{font-family:var(--ff-display);font-size:2rem;font-weight:700;color:var(--blue);}
+  .dev-stat-label{font-size:.75rem;color:#556;margin-top:.3rem;}
+  .developer-content p{color:#445;font-size:.97rem;margin-bottom:1rem;line-height:1.8;}
+  /* News */
+  .news{background:var(--blue-light);}
+  .news-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-top:3rem;}
+  .news-card{background:#fff;border:1px solid rgba(21,101,192,.1);border-radius:6px;overflow:hidden;transition:.3s;display:flex;flex-direction:column;box-shadow:0 2px 8px rgba(13,71,161,.05);}
+  .news-card:hover{border-color:var(--blue);transform:translateY(-4px);box-shadow:0 12px 28px rgba(13,71,161,.12);}
+  .news-card-img{height:170px;background:linear-gradient(135deg,var(--blue-light),#c8d8f0);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:.5rem;position:relative;overflow:hidden;}
+  .news-source-badge{position:absolute;top:.75rem;left:.75rem;background:var(--blue);color:#fff;padding:.2rem .65rem;font-size:.66rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;z-index:2;border-radius:2px;}
+  .news-card-body{padding:1.5rem;flex:1;display:flex;flex-direction:column;}
+  .news-date{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);margin-bottom:.5rem;font-weight:600;}
+  .news-title{font-family:var(--ff-display);font-size:1.05rem;font-weight:600;line-height:1.4;margin-bottom:.75rem;color:var(--dark-mid);}
+  .news-excerpt{font-size:.82rem;color:#556;line-height:1.6;flex:1;}
+  .news-link{display:inline-flex;align-items:center;gap:.4rem;margin-top:1rem;font-size:.8rem;color:var(--blue);font-weight:600;text-decoration:none;letter-spacing:.04em;transition:gap .2s;}
+  .news-link:hover{gap:.7rem;}
+  .news-cta-wrap{margin-top:2.5rem;text-align:center;}
+  /* Resale */
+  .resale{background:#fff;}
+  .resale-intro{max-width:580px;color:#445;font-size:.97rem;margin-bottom:3rem;line-height:1.8;}
+  .resale-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start;}
+  .resale-info{padding:2rem;border:1px solid rgba(21,101,192,.15);background:var(--blue-light);border-radius:6px;}
+  .resale-info h3{font-family:var(--ff-display);font-size:1.4rem;font-weight:700;color:var(--blue-dark);margin-bottom:1rem;}
+  .resale-info p{font-size:.87rem;color:#445;margin-bottom:.8rem;line-height:1.7;}
+  .resale-steps{list-style:none;margin-top:1.5rem;display:flex;flex-direction:column;gap:.8rem;}
+  .resale-steps li{display:flex;gap:.75rem;align-items:flex-start;font-size:.87rem;color:#445;}
+  .rs-num{width:24px;height:24px;border-radius:50%;background:var(--blue);color:#fff;font-size:.73rem;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:.1rem;}
+  .form-group{display:flex;flex-direction:column;gap:.4rem;}
+  .form-group label{font-size:.73rem;letter-spacing:.08em;text-transform:uppercase;color:#556;font-weight:600;}
+  .form-group input,.form-group select,.form-group textarea{background:#fff;border:1.5px solid rgba(21,101,192,.2);color:#334;padding:.85rem 1rem;font-family:var(--ff-body);font-size:.92rem;outline:none;transition:border-color .2s;width:100%;-webkit-appearance:none;border-radius:3px;}
+  .form-group input:focus,.form-group select:focus,.form-group textarea:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(21,101,192,.08);}
+  .form-group textarea{resize:vertical;min-height:90px;}
+  .form-row{display:grid;grid-template-columns:1fr 1fr;gap:1rem;}
+  .file-upload-area{border:2px dashed rgba(21,101,192,.25);background:#f8fbff;padding:1.5rem;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.5rem;cursor:pointer;transition:.2s;text-align:center;border-radius:4px;}
+  .file-upload-area:hover{border-color:var(--blue);background:var(--blue-light);}
+  .file-upload-area input[type="file"]{display:none;}
+  .file-upload-icon{font-size:1.8rem;opacity:.5;}
+  .file-upload-text{font-size:.84rem;color:#556;}
+  .file-upload-hint{font-size:.73rem;color:#778;}
+  .file-name-display{font-size:.78rem;color:var(--blue);margin-top:.3rem;word-break:break-all;font-weight:600;}
+  .form-submit{background:var(--blue);color:#fff;border:none;padding:1rem;font-family:var(--ff-body);font-size:.92rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;transition:.2s;margin-top:.5rem;width:100%;border-radius:3px;}
+  .form-submit:hover{background:var(--blue-dark);}
+  .form-note{font-size:.76rem;color:#778;margin-top:.5rem;text-align:center;}
+  .resale-form-wrap{display:flex;flex-direction:column;gap:1rem;}
+  .contact{background:var(--blue-light);}
+  .contact-wrap{display:grid;grid-template-columns:1fr 1fr;gap:5rem;margin-top:3rem;}
+  .contact-detail{display:flex;gap:1rem;align-items:flex-start;margin-bottom:1.5rem;}
+  .cd-icon{width:40px;height:40px;border-radius:50%;background:var(--blue);color:#fff;display:flex;align-items:center;justify-content:center;font-size:1rem;flex-shrink:0;}
+  .cd-label{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);font-weight:600;}
+  .cd-value{font-size:.97rem;color:#334;margin-top:.2rem;}
+  footer{background:var(--dark-mid);padding:4rem 4rem 2rem;border-top:3px solid var(--blue);}
+  .footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:3rem;margin-bottom:3rem;}
+  .footer-logo-img{height:44px;width:auto;margin-bottom:1rem;filter:brightness(0) invert(1);opacity:.85;}
+  .footer-desc{font-size:.85rem;color:rgba(255,255,255,.55);line-height:1.8;}
+  .footer-col h4{font-size:.74rem;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:1.2rem;}
+  .footer-links{list-style:none;display:flex;flex-direction:column;gap:.6rem;}
+  .footer-links a{color:rgba(255,255,255,.6);text-decoration:none;font-size:.86rem;transition:color .2s;}
+  .footer-links a:hover{color:var(--gold);}
+  .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:1.5rem;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;}
+  .footer-bottom p{font-size:.78rem;color:rgba(255,255,255,.4);}
+  .footer-disclaimer{font-size:.72rem;color:rgba(255,255,255,.3);margin-top:1rem;line-height:1.6;max-width:700px;}
+  .sticky-cta{position:fixed;bottom:2rem;right:2rem;z-index:99;display:flex;flex-direction:column;gap:.6rem;}
+  .sticky-btn{color:#fff;border:none;padding:.8rem 1.4rem;font-family:var(--ff-body);font-size:.8rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;display:flex;align-items:center;gap:.5rem;box-shadow:0 4px 20px rgba(0,0,0,.3);transition:.2s;text-decoration:none;border-radius:3px;background:var(--blue);}
+  .sticky-btn:hover{background:var(--blue-dark);transform:translateY(-2px);}
+  .sticky-btn.whatsapp{background:#25d366;}
+  .sticky-btn.whatsapp:hover{background:#1ebe5a;}
+  .fade-up{opacity:0;transform:translateY(28px);transition:opacity .7s ease,transform .7s ease;}
+  .fade-up.visible{opacity:1;transform:translateY(0);}
+  .lightbox{position:fixed;inset:0;background:rgba(10,22,40,.95);z-index:999;display:none;align-items:center;justify-content:center;padding:2rem;}
+  .lightbox.open{display:flex;}
+  .lightbox-inner{max-width:800px;width:100%;background:#fff;border-radius:8px;overflow:hidden;position:relative;}
+  .lightbox-img-area{height:400px;background:linear-gradient(135deg,var(--blue-light),#c0d8f0);display:flex;align-items:center;justify-content:center;}
+  .lightbox-body{padding:2rem;}
+  .lightbox-close{position:absolute;top:1rem;right:1rem;background:var(--blue);color:#fff;border:none;width:36px;height:36px;border-radius:50%;font-size:1.1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+  @media(max-width:1100px){.amenities-grid{grid-template-columns:repeat(4,1fr);}}
+  @media(max-width:900px){
+    nav{padding:.7rem 1.2rem;}
+    .nav-links,.nav-cta{display:none;}
+    .hamburger{display:flex;}
+    section{padding:4rem 1.5rem;}
+    .hero{padding:0 1.5rem 4rem;}
+    .hero h1{font-size:2.2rem;}
+    .hero-stats{gap:1.5rem;}
+    .about-grid,.location-grid,.developer-grid,.contact-wrap,.resale-grid{grid-template-columns:1fr;gap:2.5rem;}
+    .highlights{padding:2rem 1.5rem;}
+    .highlights-grid{grid-template-columns:repeat(2,1fr);}
+    .amenities-grid{grid-template-columns:repeat(3,1fr);}
+    .news-grid,.projects-grid{grid-template-columns:1fr;}
+    .gallery-grid{grid-template-columns:1fr 1fr;}
+    .cert-grid{grid-template-columns:repeat(2,1fr);}
+    .footer-grid{grid-template-columns:1fr 1fr;gap:2rem;}
+    .footer-grid>div:first-child{grid-column:1 / -1;}
+    .form-row{grid-template-columns:1fr;}
+    .scroll-indicator{display:none;}
+    .sticky-cta{bottom:1rem;right:1rem;}
+    .highlight-item{border-right:none;border-bottom:1px solid rgba(255,255,255,.12);padding-bottom:1rem;}
+  }
+  @media(max-width:600px){
+    .amenities-grid{grid-template-columns:repeat(2,1fr);}
+    .gallery-grid{grid-template-columns:1fr;}
+    .cert-grid{grid-template-columns:1fr 1fr;}
+  }
+  body.nav-open .nav-links{display:flex;flex-direction:column;position:fixed;top:62px;left:0;right:0;background:#fff;padding:1.5rem;gap:1rem;border-bottom:3px solid var(--blue);z-index:199;box-shadow:0 8px 24px rgba(0,0,0,.1);}
+  body.nav-open .nav-links a{font-size:1rem;padding:.5rem 0;border-bottom:1px solid rgba(21,101,192,.1);}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="mainNav">
+  <a class="nav-logo-wrap" href="#">
+    <img src="C:\Users\vsaha\OneDrive\Desktop\OMAXE\omaxe_logo.png"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+         class="nav-logo-img" alt="Omaxe Logo" />
+    <div style="display:none;align-items:center;gap:6px;">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:2px;width:32px;height:32px;">
+        <div style="background:var(--red);border-radius:1px;position:relative;"><div style="position:absolute;top:3px;left:3px;right:3px;bottom:3px;background:transparent;border:1px solid rgba(255,255,255,.4);"></div></div>
+        <div style="background:var(--red);border-radius:1px;display:flex;align-items:center;justify-content:center;"><div style="width:6px;height:6px;background:#fff;border-radius:50%;"></div></div>
+        <div style="background:var(--red);border-radius:1px;"></div>
+        <div style="background:var(--red);border-radius:1px;"></div>
+      </div>
+      <div style="background:var(--blue);padding:4px 10px;border-radius:1px;">
+        <span style="color:#fff;font-weight:700;font-size:1rem;letter-spacing:.04em;font-family:var(--ff-body);">OMAXE</span>
+      </div>
+    </div>
+    <div><div class="nav-logo-text">Super Corridor</div></div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#about" data-i18n="nav_about">About</a></li>
+    <li><a href="#amenities" data-i18n="nav_amenities">Amenities</a></li>
+    <li><a href="#gallery" data-i18n="nav_gallery">Gallery</a></li>
+    <li><a href="#other-projects">Our Projects</a></li>
+    <li><a href="#location" data-i18n="nav_location">Location</a></li>
+    <li><a href="#contact" data-i18n="nav_contact">Contact</a></li>
+  </ul>
+  <div class="nav-right">
+    <div class="lang-toggle">
+      <button class="lang-btn active" id="btn-en" onclick="setLang('en')">EN</button>
+      <button class="lang-btn" id="btn-hi" onclick="setLang('hi')">हिं</button>
+    </div>
+    <a href="#contact" class="nav-cta" data-i18n="nav_enquire">Enquire Now</a>
+  </div>
+  <button class="hamburger" onclick="document.body.classList.toggle('nav-open')">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="home">
+  <div class="hero-bg-pattern"></div>
+  <div class="hero-accent"></div>
+  <div class="hero-badge" data-i18n="hero_badge">Pre-launch · RERA Applied · Super Corridor, Indore</div>
+  <h1 data-i18n="hero_h1">Madhya Pradesh's <em>first</em><br/>integrated township</h1>
+  <p class="hero-sub" data-i18n="hero_sub">A 450-acre integrated township on Indore's fastest-growing Super Corridor — blending premium residential plots, world-class amenities, and long-term investment value.</p>
+  <div class="hero-actions">
+    <a href="#contact" class="btn-primary" data-i18n="hero_cta1">Book a Site Visit</a>
+    <a href="#about" class="btn-outline" data-i18n="hero_cta2">Explore Plots</a>
+  </div>
+  <div class="hero-stats">
+    <div><div class="hero-stat-num">450</div><div class="hero-stat-label" data-i18n="stat1">Acres of Township</div></div>
+    <div><div class="hero-stat-num">Dec 2030</div><div class="hero-stat-label" data-i18n="stat4">Expected Possession</div></div>
+  </div>
+  <div class="scroll-indicator"><div class="scroll-line"></div>Scroll</div>
+</section>
+
+<!-- HIGHLIGHTS -->
+<div class="highlights">
+  <div class="highlights-grid">
+    <div class="highlight-item"><div class="highlight-num">₹1,200 Cr</div><div class="highlight-label" data-i18n="hl1">Project Investment</div></div>
+    <div class="highlight-item"><div class="highlight-num">119M+</div><div class="highlight-label" data-i18n="hl2">Sq Ft Delivered by Omaxe</div></div>
+    <div class="highlight-item"><div class="highlight-num">27</div><div class="highlight-label" data-i18n="hl3">Cities Pan-India</div></div>
+    <div class="highlight-item"><div class="highlight-num">200+</div><div class="highlight-label" data-i18n="hl4">Industry Awards</div></div>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<section class="about section-light" id="about">
+  <div class="section-label" data-i18n="about_label">About the Project</div>
+  <h2 class="section-title" data-i18n="about_title">An <em>Integrated Township</em> Built for Tomorrow</h2>
+  <div class="divider"></div>
+  <div class="about-grid">
+    <div class="about-img-wrap fade-up">
+      <img src="C:\Users\vsaha\OneDrive\Desktop\OMAXE\WhatsApp Image 2026-04-13 at 1.20.24 PM.jpeg"
+           alt="Omaxe Super Corridor Master Plan"
+           style="width:100%;height:100%;object-fit:cover;"
+           onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2U4ZjBmYiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiMxNTY1YzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5JbWFnZSBOb3QgRm91bmQ8L3RleHQ+PC9zdmc+'" />
+      <div class="about-note">450 Acres<br/><span style="font-size:.78rem;font-weight:400;opacity:.8" data-i18n="about_note">Integrated Township</span></div>
+    </div>
+    <div class="about-content fade-up">
+      <p data-i18n="about_p1">Omaxe Super Corridor Indore is a landmark residential plotting project strategically located in Indore's Super Corridor — the city's most dynamic growth zone, home to IT parks, educational institutions, and major business hubs.</p>
+      <p data-i18n="about_p2">The township spans 450 acres with a ₹1,200 crore investment, offering a self-sustained ecosystem with residential plots, commercial spaces, retail outlets, educational zones, and healthcare facilities.</p>
+      <p data-i18n="about_p3">Whether you're a family seeking a dream home or an investor looking for long-term land appreciation in one of India's fastest-growing Tier-2 cities, Omaxe Super Corridor offers an unmatched opportunity.</p>
+      <div class="about-features">
+        <div class="about-feature" data-i18n="feat1">Gated community</div>
+        <div class="about-feature" data-i18n="feat2">Wide internal roads</div>
+        <div class="about-feature" data-i18n="feat3">24×7 security</div>
+        <div class="about-feature" data-i18n="feat4">Landscaped greens</div>
+        <div class="about-feature" data-i18n="feat5">RERA applied</div>
+        <div class="about-feature" data-i18n="feat6">Bank loan facility</div>
+        <div class="about-feature" data-i18n="feat7">Commercial &amp; retail</div>
+        <div class="about-feature" data-i18n="feat8">Metro connectivity</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════
+     AMENITIES — matches screenshot exactly
+     White cards · SVG line-art icons · 5-col
+═══════════════════════════════════════════ -->
+<section class="amenities" id="amenities">
+  <div class="section-label" data-i18n="amenities_label">Amenities &amp; Lifestyle</div>
+  <h2 class="section-title" data-i18n="amenities_title">Everything You Need, <em>Inside</em> the Township</h2>
+  <div class="divider"></div>
+
+  <div class="amenities-grid fade-up">
+
+    <!-- 1 Open Gym for Kids -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><rect x="8" y="38" width="48" height="6" rx="2"/><rect x="4" y="28" width="10" height="18" rx="2"/><rect x="50" y="28" width="10" height="18" rx="2"/><rect x="4" y="26" width="10" height="4" rx="1"/><rect x="50" y="26" width="10" height="4" rx="1"/><rect x="27" y="18" width="10" height="22" rx="2"/><circle cx="32" cy="13" r="5"/><rect x="1" y="24" width="7" height="12" rx="2"/><rect x="56" y="24" width="7" height="12" rx="2"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am1">Open Gym for Kids</div>
+    </div>
+
+    <!-- 2 Pedestrian Jogging/Walking Track -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><circle cx="38" cy="10" r="5"/><line x1="38" y1="15" x2="34" y2="30"/><line x1="34" y1="30" x2="24" y2="40"/><line x1="34" y1="30" x2="40" y2="38"/><line x1="38" y1="15" x2="46" y2="22"/><line x1="46" y1="22" x2="54" y2="18"/><path d="M24 40 Q20 48 22 56"/><path d="M40 38 L44 56"/><path d="M6 56 Q20 50 36 56 Q48 60 58 54" stroke-dasharray="4 3"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am2">Pedestrian Jogging / Walking Track</div>
+    </div>
+
+    <!-- 3 Parks -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><line x1="18" y1="54" x2="18" y2="34"/><ellipse cx="18" cy="27" rx="10" ry="9"/><ellipse cx="11" cy="33" rx="7" ry="6"/><ellipse cx="25" cy="33" rx="7" ry="6"/><line x1="44" y1="54" x2="44" y2="36"/><ellipse cx="44" cy="29" rx="9" ry="8"/><ellipse cx="38" cy="34" rx="6" ry="5"/><rect x="26" y="44" width="18" height="3" rx="1"/><line x1="28" y1="47" x2="28" y2="52"/><line x1="42" y1="47" x2="42" y2="52"/><ellipse cx="52" cy="12" rx="7" ry="5"/><ellipse cx="58" cy="14" rx="5" ry="4"/><ellipse cx="46" cy="15" rx="5" ry="4"/><line x1="4" y1="54" x2="60" y2="54"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am3">Parks</div>
+    </div>
+
+    <!-- 4 Water Supply -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><rect x="8" y="22" width="34" height="12" rx="4"/><path d="M38 28 Q50 28 50 38 L50 46"/><rect x="20" y="13" width="8" height="10" rx="2"/><rect x="14" y="11" width="20" height="5" rx="2"/><path d="M47 48 Q47 55 50 55 Q53 55 53 48 Q53 44 50 42 Q47 44 47 48Z"/><path d="M54 52 Q54 57 56 57 Q58 57 58 52 Q58 49 56 48 Q54 49 54 52Z"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am4">Water Supply</div>
+    </div>
+
+    <!-- 5 Car Parking -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><rect x="26" y="6" width="22" height="26" rx="3"/><text x="37" y="24" font-size="18" font-family="Arial" font-weight="bold" text-anchor="middle" fill="#5a5a5a" stroke="none">P</text><line x1="37" y1="32" x2="37" y2="44"/><rect x="6" y="42" width="52" height="14" rx="4"/><path d="M12 42 L16 34 L48 34 L52 42"/><circle cx="16" cy="56" r="5"/><circle cx="48" cy="56" r="5"/><rect x="20" y="36" width="10" height="6" rx="1"/><rect x="34" y="36" width="10" height="6" rx="1"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am5">Car Parking</div>
+    </div>
+
+    <!-- 6 Prime Location -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><path d="M32 6 C19 6 10 17 10 26 C10 40 32 58 32 58 C32 58 54 40 54 26 C54 17 45 6 32 6Z"/><circle cx="32" cy="26" r="9" style="fill:#fff;stroke:#5a5a5a;stroke-width:1.5"/><polyline points="28,30 28,24 32,20 36,24 36,30"/><line x1="30" y1="30" x2="34" y2="30"/><text x="9" y="14" font-size="8" fill="#5a5a5a" stroke="none">★</text><text x="47" y="13" font-size="8" fill="#5a5a5a" stroke="none">★</text><text x="28" y="8" font-size="8" fill="#5a5a5a" stroke="none">★</text></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am6">Prime Location</div>
+    </div>
+
+    <!-- 7 Garden -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><circle cx="20" cy="12" r="6"/><path d="M12 34 Q12 20 20 20 Q28 20 28 34"/><ellipse cx="40" cy="32" rx="11" ry="9"/><ellipse cx="52" cy="35" rx="9" ry="8"/><ellipse cx="30" cy="36" rx="8" ry="7"/><line x1="4" y1="44" x2="60" y2="44"/><line x1="46" y1="44" x2="46" y2="32"/><circle cx="46" cy="30" r="3"/><circle cx="42" cy="28" r="2"/><circle cx="50" cy="28" r="2"/><circle cx="46" cy="26" r="2"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am7">Garden</div>
+    </div>
+
+    <!-- 8 24 Hr Security -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><rect x="8" y="22" width="34" height="18" rx="4"/><circle cx="38" cy="31" r="7"/><circle cx="38" cy="31" r="3"/><line x1="24" y1="22" x2="24" y2="12"/><line x1="14" y1="12" x2="34" y2="12"/><path d="M48 26 Q54 31 48 36" fill="none"/><path d="M52 22 Q62 31 52 40" fill="none"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am8">24 Hr Security</div>
+    </div>
+
+    <!-- 9 RO Water System -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><circle cx="42" cy="10" r="6"/><path d="M34 32 Q34 18 42 18 Q50 18 50 32"/><path d="M8 24 L12 50 L36 50 L40 24 Z"/><line x1="6" y1="24" x2="42" y2="24"/><line x1="12" y1="38" x2="36" y2="38"/><rect x="54" y="16" width="8" height="24" rx="3"/><line x1="58" y1="16" x2="58" y2="8"/><line x1="54" y1="8" x2="62" y2="8"/><path d="M36 14 Q30 18 26 24"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am9">RO Water System</div>
+    </div>
+
+    <!-- 10 Parking (covered/smart) -->
+    <div class="amenity-card">
+      <div class="amenity-icon-wrap">
+        <svg viewBox="0 0 64 64"><polyline points="2,28 32,10 62,28"/><line x1="2" y1="28" x2="2" y2="56"/><line x1="62" y1="28" x2="62" y2="56"/><line x1="2" y1="56" x2="62" y2="56"/><rect x="10" y="40" width="44" height="14" rx="3"/><path d="M14 40 L18 32 L46 32 L50 40"/><circle cx="20" cy="54" r="4"/><circle cx="44" cy="54" r="4"/><path d="M26 22 Q32 17 38 22" fill="none"/><path d="M29 25 Q32 22 35 25" fill="none"/><circle cx="32" cy="27" r="1.5" style="fill:#5a5a5a;stroke:none"/></svg>
+      </div>
+      <div class="amenity-name" data-i18n="am10">Parking</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- GALLERY -->
+<section class="gallery" id="gallery">
+  <div class="section-label">Gallery</div>
+  <h2 class="section-title">Project <em>Showcase</em> &amp; Milestones</h2>
+  <div class="divider"></div>
+  <div class="gallery-tabs">
+    <button class="gallery-tab active" onclick="switchTab('ongoing')">🏗️ Ongoing Work</button>
+    <button class="gallery-tab" onclick="switchTab('certificates')">🏆 Certificates &amp; Awards</button>
+    <button class="gallery-tab" onclick="switchTab('renders')">🖼️ Project Renders</button>
+  </div>
+  <div class="gallery-panel active fade-up" id="tab-ongoing">
+    <div class="gallery-grid">
+      <div class="gallery-item" style="background:linear-gradient(135deg,#1a3a6a,#2a5ea0);" onclick="openLightbox('Foundation Work — Phase 1','Site levelling and foundation laying in progress. Area: Sector A, Block 1–4.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">🏗️</div><div class="gallery-item-label">Foundation Work</div></div>
+        <span class="work-status status-active">● Active</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Foundation Work — Phase 1</div>
+      </div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#2a4a7a,#3a6eae);" onclick="openLightbox('Road Infrastructure','Internal road construction — 24-metre wide roads being laid.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">🛣️</div><div class="gallery-item-label">Road Construction</div></div>
+        <span class="work-status status-active">● Active</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Road Infrastructure · Sector B</div>
+      </div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#1a4560,#2a6888);" onclick="openLightbox('Drainage & Utilities','Underground drainage and electrical duct laying in progress.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">⚙️</div><div class="gallery-item-label">Drainage &amp; Utilities</div></div>
+        <span class="work-status status-complete">✔ Complete</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Drainage &amp; Utilities · Phase 1</div>
+      </div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#2a3a6a,#4a5a9a);" onclick="openLightbox('Landscaping','Central park area landscaping and green-belt development.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">🌿</div><div class="gallery-item-label">Landscaping</div></div>
+        <span class="work-status status-active">● Active</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Central Park — Landscaping</div>
+      </div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#2a4a5a,#1a6a7a);" onclick="openLightbox('Boundary Wall','Perimeter compound wall and gated entry construction.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">🧱</div><div class="gallery-item-label">Boundary Wall</div></div>
+        <span class="work-status status-complete">✔ Complete</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Boundary Wall — All Sectors</div>
+      </div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#3a4a8a,#5a6ab0);" onclick="openLightbox('Clubhouse Foundation','Clubhouse and amenity block — foundation work.')">
+        <div class="gallery-item-inner"><div class="gallery-item-icon">🏛️</div><div class="gallery-item-label">Clubhouse</div></div>
+        <span class="work-status status-active">● Active</span><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Clubhouse — Under Construction</div>
+      </div>
+    </div>
+    <p style="font-size:.82rem;color:#778;margin-top:1.5rem;text-align:center;">📸 Replace placeholder blocks with actual site photographs to showcase real progress.</p>
+  </div>
+  <div class="gallery-panel fade-up" id="tab-certificates">
+    <div class="cert-grid">
+      <div class="cert-card"><div class="cert-icon">🏆</div><div class="cert-name">Best Real Estate Developer</div><div class="cert-body">National Real Estate Awards — North India Category</div><div class="cert-badge">2023</div></div>
+      <div class="cert-card"><div class="cert-icon">📜</div><div class="cert-name">RERA Approved</div><div class="cert-body">Real Estate (Regulation &amp; Development) Act — Madhya Pradesh</div><div class="cert-badge">Registered</div></div>
+      <div class="cert-card"><div class="cert-icon">🌿</div><div class="cert-name">Green Building Certification</div><div class="cert-body">IGBC Green Township Rating — Silver Level</div><div class="cert-badge">2022</div></div>
+      <div class="cert-card"><div class="cert-icon">⭐</div><div class="cert-name">Excellence in Construction</div><div class="cert-body">CREDAI Madhya Pradesh — Best Integrated Township</div><div class="cert-badge">2023</div></div>
+      <div class="cert-card"><div class="cert-icon">🛡️</div><div class="cert-name">ISO 9001:2015</div><div class="cert-body">Quality Management System — Construction &amp; Delivery</div><div class="cert-badge">Certified</div></div>
+      <div class="cert-card"><div class="cert-icon">🏅</div><div class="cert-name">Times Real Estate Awards</div><div class="cert-body">Most Trusted Developer — Madhya Pradesh Region</div><div class="cert-badge">2024</div></div>
+      <div class="cert-card"><div class="cert-icon">📋</div><div class="cert-name">Environment Clearance</div><div class="cert-body">Ministry of Environment, Forest &amp; Climate Change — Approved</div><div class="cert-badge">Approved</div></div>
+      <div class="cert-card"><div class="cert-icon">🎖️</div><div class="cert-name">Iconic Developer Award</div><div class="cert-body">Real Estate Conclave India — 35 Years of Excellence</div><div class="cert-badge">2024</div></div>
+    </div>
+  </div>
+  <div class="gallery-panel fade-up" id="tab-renders">
+    <div class="gallery-grid">
+      <div class="gallery-item" style="background:linear-gradient(135deg,#1a3a6a,#3a6eae);" onclick="openLightbox('Master Plan','450-acre integrated township master plan with all sectors.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🗺️</div><div class="gallery-item-label">Master Plan</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Master Plan — 450 Acres</div></div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#2a4a7a,#5a7aaa);" onclick="openLightbox('Aerial View','Aerial perspective of the complete township layout.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🏘️</div><div class="gallery-item-label">Aerial View</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Aerial Township View</div></div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#1a4a5a,#2a7a8a);" onclick="openLightbox('Clubhouse Render','State-of-the-art clubhouse and recreational facilities.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🏛️</div><div class="gallery-item-label">Clubhouse Render</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Clubhouse &amp; Amenities</div></div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#2a3a7a,#4a5aaa);" onclick="openLightbox('Central Park','Lush green central park with jogging and play areas.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🌳</div><div class="gallery-item-label">Central Park</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Central Park — Landscaping</div></div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#1a2a5a,#3a4a9a);" onclick="openLightbox('Entry Gate','Grand entry gate with guard post and security features.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🚪</div><div class="gallery-item-label">Entry Gate</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Grand Entry Gate</div></div>
+      <div class="gallery-item" style="background:linear-gradient(135deg,#3a4a8a,#6a7ac0);" onclick="openLightbox('Street View','Premium internal roads with street lighting and greenery.')"><div class="gallery-item-inner"><div class="gallery-item-icon">🛣️</div><div class="gallery-item-label">Street View</div></div><div class="gallery-item-overlay"></div><div class="gallery-item-caption">Internal Roads — 24m Wide</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- OTHER OMAXE PROJECTS -->
+<section class="other-projects section-light" id="other-projects">
+  <div class="section-label">Portfolio</div>
+  <h2 class="section-title">Other <em>Omaxe</em> Projects</h2>
+  <div class="divider"></div>
+  <p style="color:#556;max-width:600px;margin-bottom:1rem;font-size:.97rem;line-height:1.8;">Explore Omaxe's distinguished portfolio of residential townships — each delivering world-class living across Madhya Pradesh.</p>
+  <div class="projects-grid fade-up">
+    <div class="project-card">
+      <div class="project-card-img">
+        <img src="C:\Users\vsaha\OneDrive\Desktop\OMAXE\omaxecity1.jpg" alt="Omaxe City 1" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"/>
+        <div class="project-card-img-bg proj-city1" style="display:none;"><div class="project-img-icon">🏙️</div><div class="project-img-label">Omaxe City 1</div></div>
+        <div class="project-tag">Residential Township</div>
+      </div>
+      <div class="project-card-body">
+        <div class="project-name">Omaxe City 1</div>
+        <div class="project-location">📍 Indore, Madhya Pradesh</div>
+        <div class="project-desc">A landmark residential township offering premium plots and villas with excellent connectivity to Indore's city centre. Fully developed with lush greens, wide roads, and top-class amenities.</div>
+        <div class="project-features"><span class="project-feature-tag">Delivered</span><span class="project-feature-tag">Gated Township</span><span class="project-feature-tag">Plots &amp; Villas</span><span class="project-feature-tag">Club &amp; Park</span></div>
+        <a href="https://www.omaxe.com/residential-property-in-indore/omaxe-city-plots-4" target="_blank" class="project-cta">View Project →</a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-card-img">
+        <img src="C:\Users\vsaha\OneDrive\Desktop\OMAXE\omaxecity2.jpg" alt="Omaxe City 2" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"/>
+        <div class="project-card-img-bg proj-city2" style="display:none;"><div class="project-img-icon">🏡</div><div class="project-img-label">Omaxe City 2</div></div>
+        <div class="project-tag">Integrated Township</div>
+      </div>
+      <div class="project-card-body">
+        <div class="project-name">Omaxe City 2</div>
+        <div class="project-location">📍 Indore, Madhya Pradesh</div>
+        <div class="project-desc">Expanding on the success of City 1, Omaxe City 2 offers larger plots, exclusive villa zones, and enhanced amenities designed for modern family living in a secure community.</div>
+        <div class="project-features"><span class="project-feature-tag">Ready to Move</span><span class="project-feature-tag">Villa Plots</span><span class="project-feature-tag">Schools Nearby</span><span class="project-feature-tag">24×7 Security</span></div>
+        <a href="https://www.omaxe.com/residential-property-in-indore/omaxe-city-mangliya-court" target="_blank" class="project-cta">View Project →</a>
+      </div>
+    </div>
+    <div class="project-card">
+      <div class="project-card-img">
+        <img src="C:\Users\vsaha\OneDrive\Desktop\OMAXE\omaxehills.jpg" alt="Omaxe Hills" style="width:100%;height:100%;object-fit:cover;" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"/>
+        <div class="project-card-img-bg proj-hills" style="display:none;"><div class="project-img-icon">⛰️</div><div class="project-img-label">Omaxe Hills</div></div>
+        <div class="project-tag">Hill Township</div>
+      </div>
+      <div class="project-card-body">
+        <div class="project-name">Omaxe Hills</div>
+        <div class="project-location">📍 Indore, Madhya Pradesh</div>
+        <div class="project-desc">Nestled against scenic hills, Omaxe Hills offers a serene hilltop living experience with panoramic views, nature trails, and premium residential plots in the lap of nature.</div>
+        <div class="project-features"><span class="project-feature-tag">Hill Views</span><span class="project-feature-tag">Eco Township</span><span class="project-feature-tag">Nature Trails</span><span class="project-feature-tag">Premium Plots</span></div>
+        <a href="https://www.omaxe.com/residential-property-in-indore/omaxe-hills-1" target="_blank" class="project-cta">View Project →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LOCATION -->
+<section class="location" id="location">
+  <div class="section-label" data-i18n="loc_label">Location Advantage</div>
+  <h2 class="section-title" data-i18n="loc_title">At the <em>Centre</em> of Indore's Growth Story</h2>
+  <div class="divider"></div>
+  <div class="location-grid">
+    <div class="location-map fade-up">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29433.01!2d75.8904!3d22.7450!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd4f81dcd4a1%3A0x4e882adc8c3fdba8!2sSuper+Corridor+Rd%2C+Indore%2C+Madhya+Pradesh!5e0!3m2!1sen!2sin!4v1690000000000" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Omaxe Super Corridor Indore"></iframe>
+    </div>
+    <div class="fade-up">
+      <ul class="location-points">
+        <li class="location-point"><div class="lp-icon">✈️</div><div><div class="lp-label" data-i18n="lp1l">Devi Ahilya Airport</div><div class="lp-value" data-i18n="lp1v">Approx. 15–20 minutes drive</div></div></li>
+        <li class="location-point"><div class="lp-icon">🚇</div><div><div class="lp-label" data-i18n="lp2l">Indore Metro</div><div class="lp-value" data-i18n="lp2v">Metro line extending to Super Corridor</div></div></li>
+        <li class="location-point"><div class="lp-icon">💼</div><div><div class="lp-label" data-i18n="lp3l">IT &amp; Business Hubs</div><div class="lp-value" data-i18n="lp3v">TCS, Infosys campuses &amp; SEZ within close reach</div></div></li>
+        <li class="location-point"><div class="lp-icon">🎓</div><div><div class="lp-label" data-i18n="lp4l">Top Institutions</div><div class="lp-value" data-i18n="lp4v">IIM Indore, DAVV, Symbiosis &amp; leading schools nearby</div></div></li>
+        <li class="location-point"><div class="lp-icon">🏥</div><div><div class="lp-label" data-i18n="lp5l">Healthcare</div><div class="lp-value" data-i18n="lp5v">Multi-speciality hospitals within 10 km</div></div></li>
+        <li class="location-point"><div class="lp-icon">🛣️</div><div><div class="lp-label" data-i18n="lp6l">Super Corridor Road</div><div class="lp-value" data-i18n="lp6v">Direct access to Indore's primary arterial road</div></div></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- DEVELOPER -->
+<section class="developer section-light" id="developer">
+  <div class="section-label" data-i18n="dev_label">The Developer</div>
+  <h2 class="section-title" data-i18n="dev_title">Backed by <em>35+ Years</em> of Trust</h2>
+  <div class="divider"></div>
+  <div class="developer-grid">
+    <div class="fade-up">
+      <div class="dev-logo-wrap" style="margin-bottom:2rem;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Omaxe_logo.svg/400px-Omaxe_logo.svg.png" onerror="this.outerHTML='<div style=\'font-family:var(--ff-display);font-size:2rem;font-weight:700;color:var(--blue);\'>OMAXE</div>'" style="max-width:200px;height:auto;" alt="Omaxe Group" />
+      </div>
+      <div class="developer-content">
+        <p data-i18n="dev_p1">Omaxe Group, founded in 1987 by Mr. Rohtas Goel, is one of India's most respected real estate developers. Headquartered in New Delhi, Omaxe has delivered more than 119 million sq ft of space across 27 cities.</p>
+        <p data-i18n="dev_p2">Omaxe's commitment to innovation, eco-friendly practices, and sustainable communities is evident in every project. The group has won over 200 industry awards for design and construction excellence.</p>
+      </div>
+    </div>
+    <div class="dev-stats fade-up">
+      <div class="dev-stat"><div class="dev-stat-num">1987</div><div class="dev-stat-label" data-i18n="ds1">Year Founded</div></div>
+      <div class="dev-stat"><div class="dev-stat-num">119M+</div><div class="dev-stat-label" data-i18n="ds2">Sq Ft Delivered</div></div>
+      <div class="dev-stat"><div class="dev-stat-num">27</div><div class="dev-stat-label" data-i18n="ds3">Cities</div></div>
+      <div class="dev-stat"><div class="dev-stat-num">200+</div><div class="dev-stat-label" data-i18n="ds4">Awards Won</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- NEWS -->
+<section class="news" id="news">
+  <div class="section-label" data-i18n="news_label">News &amp; Media Coverage</div>
+  <h2 class="section-title" data-i18n="news_title">Omaxe in the <em>Spotlight</em></h2>
+  <div class="divider"></div>
+  <div class="news-grid fade-up">
+    <div class="news-card">
+      <div class="news-card-img"><div style="font-size:2.2rem;opacity:.3">📰</div><div class="news-source-badge">Times of India</div></div>
+      <div class="news-card-body">
+        <div class="news-date">January 2025</div>
+        <div class="news-title" data-i18n="news1_title">Omaxe Group Announces ₹1,200 Crore Township on Indore Super Corridor</div>
+        <div class="news-excerpt" data-i18n="news1_exc">Omaxe Group has unveiled its ambitious 450-acre integrated township project on Indore's fastest-growing real estate corridor.</div>
+        <a href="https://economictimes.indiatimes.com/industry/services/property-/-cstruction/omaxe-buys-450-acre-land-in-indore-to-invest-rs-1200-crore/articleshow/122314464.cms?from=mdr" target="_blank" class="news-link" data-i18n="news_read">Read Article →</a>
+      </div>
+    </div>
+    <div class="news-card">
+      <div class="news-card-img"><div style="font-size:2.2rem;opacity:.3">📺</div><div class="news-source-badge">Dainik Bhaskar</div></div>
+      <div class="news-card-body">
+        <div class="news-date">November 2024</div>
+        <div class="news-title">इंदौर सुपर कॉरिडोर पर ओमैक्स का नया टाउनशिप</div>
+        <div class="news-excerpt">इंदौर के सबसे तेज़ी से विकसित हो रहे क्षेत्र में ओमैक्स ग्रुप की नई टाउनशिप से निवेशकों और होम बायर्स को बड़ी उम्मीदें हैं।</div>
+        <a href="#" class="news-link">Read Article →</a>
+      </div>
+    </div>
+    <div class="news-card">
+      <div class="news-card-img" style="padding:0;height:170px;">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29433.01!2d75.8904!3d22.7450!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd4f81dcd4a1%3A0x4e882adc8c3fdba8!2sSuper+Corridor+Rd%2C+Indore%2C+Madhya+Pradesh!5e0!3m2!1sen!2sin!4v1690000000000" style="width:100%;height:100%;border:none;display:block;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Project Map"></iframe>
+        <div class="news-source-badge" style="z-index:3;">Google Maps</div>
+      </div>
+      <div class="news-card-body">
+        <div class="news-date" data-i18n="news3_date">Project Location</div>
+        <div class="news-title" data-i18n="news3_title">View Omaxe Super Corridor on Google Maps</div>
+        <div class="news-excerpt" data-i18n="news3_exc">Explore the exact project site on Super Corridor, Indore — see nearby landmarks and roads.</div>
+        <a href="https://share.google/a1sh35jJNQAbpctML" target="_blank" class="news-link" data-i18n="news3_link">Open Full Map →</a>
+      </div>
+    </div>
+  </div>
+  <div class="news-cta-wrap fade-up"><a href="#contact" class="btn-primary" style="background:var(--blue);" data-i18n="news_press_cta">Media Enquiry →</a></div>
+</section>
+
+<!-- RESALE -->
+<section class="resale section-light" id="resale">
+  <div class="section-label" data-i18n="resale_label">Resale Listings</div>
+  <h2 class="section-title" data-i18n="resale_title">List Your Plot for <em>Resale</em></h2>
+  <div class="divider"></div>
+  <p class="resale-intro" data-i18n="resale_intro">Already own a plot in Omaxe Super Corridor? List it with us and reach thousands of genuine buyers.</p>
+  <div class="resale-grid">
+    <div class="resale-info fade-up">
+      <h3 data-i18n="resale_how_title">How Resale Works</h3>
+      <p data-i18n="resale_how_p">Submit your listing details and property documents. Our advisor team will verify, list your property, and connect you with qualified buyers.</p>
+      <ul class="resale-steps">
+        <li><div class="rs-num">1</div><span data-i18n="rs1">Fill the resale form with your contact info and property details.</span></li>
+        <li><div class="rs-num">2</div><span data-i18n="rs2">Upload your property documents (sale deed, plot papers, NOC, etc.).</span></li>
+        <li><div class="rs-num">3</div><span data-i18n="rs3">Our team reviews and contacts you within 48 hours.</span></li>
+        <li><div class="rs-num">4</div><span data-i18n="rs4">Your listing goes live and is shared with active buyers.</span></li>
+      </ul>
+      <div style="margin-top:2rem;padding:1.25rem;background:#fff;border:1px solid rgba(21,101,192,.15);border-radius:4px;">
+        <div style="font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);font-weight:700;margin-bottom:.5rem" data-i18n="resale_note_label">Note</div>
+        <div style="font-size:.83rem;color:#445" data-i18n="resale_note">All property documents are reviewed in strict confidence. Listing is free for registered plot owners.</div>
+      </div>
+    </div>
+    <div class="fade-up">
+      <form class="resale-form-wrap" onsubmit="handleResaleSubmit(event)">
+        <div class="form-row">
+          <div class="form-group"><label for="r_fname" data-i18n="r_fname">First Name</label><input type="text" id="r_fname" placeholder="Rahul" required/></div>
+          <div class="form-group"><label for="r_lname" data-i18n="r_lname">Last Name</label><input type="text" id="r_lname" placeholder="Sharma" required/></div>
+        </div>
+        <div class="form-group"><label for="r_phone" data-i18n="r_phone">Contact Number</label><input type="tel" id="r_phone" placeholder="+91 98XXX XXXXX" required/></div>
+        <div class="form-group"><label for="r_email" data-i18n="r_email">Email Address</label><input type="email" id="r_email" placeholder="rahul@email.com"/></div>
+        <div style="font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--blue);font-weight:700;margin:.4rem 0 -.2rem" data-i18n="r_property_section">Property Details</div>
+        <div class="form-group"><label for="r_plotno" data-i18n="r_plotno">Plot Number / Block</label><input type="text" id="r_plotno" placeholder="e.g. A-42, Block 3"/></div>
+        <div class="form-row">
+          <div class="form-group"><label for="r_plotsize" data-i18n="r_plotsize">Plot Size (sq ft)</label><input type="text" id="r_plotsize" placeholder="e.g. 1200"/></div>
+          <div class="form-group"><label for="r_askprice" data-i18n="r_askprice">Asking Price (₹)</label><input type="text" id="r_askprice" placeholder="e.g. 45,00,000"/></div>
+        </div>
+        <div class="form-group"><label for="r_details" data-i18n="r_details">Additional Details</label><textarea id="r_details" placeholder="Corner plot, east-facing, near park..."></textarea></div>
+        <div class="form-group">
+          <label data-i18n="r_docs">Property Documents (PDF / JPG / PNG)</label>
+          <div class="file-upload-area" onclick="document.getElementById('r_files').click()">
+            <input type="file" id="r_files" accept=".pdf,.jpg,.jpeg,.png" multiple onchange="showFileNames(this)"/>
+            <div class="file-upload-icon">📎</div>
+            <div class="file-upload-text" data-i18n="r_upload_text">Click to upload documents</div>
+            <div class="file-upload-hint" data-i18n="r_upload_hint">Sale deed, plot papers, NOC, Aadhar — max 10MB each</div>
+            <div class="file-name-display" id="fileNameDisplay"></div>
+          </div>
+        </div>
+        <button type="submit" class="form-submit" data-i18n="r_submit">Submit Resale Listing →</button>
+        <p class="form-note" data-i18n="r_note">Documents handled with full confidentiality. Team contacts you within 48 hours.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section class="contact" id="contact">
+  <div class="section-label" data-i18n="contact_label">Get In Touch</div>
+  <h2 class="section-title" data-i18n="contact_title">Take the First Step to Your <em>Dream</em> Home</h2>
+  <div class="divider"></div>
+  <div class="contact-wrap">
+    <div class="fade-up">
+      <p style="color:#445;font-size:.97rem;margin-bottom:2rem;line-height:1.8;" data-i18n="contact_p">Our advisors are ready to answer your queries about plots, pricing, payment plans, and site visits.</p>
+      <div class="contact-detail"><div class="cd-icon">📞</div><div><div class="cd-label" data-i18n="cd1l">Phone / WhatsApp</div><div class="cd-value">+91 XXXXX XXXXX</div></div></div>
+      <div class="contact-detail"><div class="cd-icon">📧</div><div><div class="cd-label" data-i18n="cd2l">Email</div><div class="cd-value">info@omaxesupercorridor.com</div></div></div>
+      <div class="contact-detail"><div class="cd-icon">📍</div><div><div class="cd-label" data-i18n="cd3l">Site Location</div><div class="cd-value" data-i18n="cd3v">Super Corridor, Indore, Madhya Pradesh</div></div></div>
+      <div class="contact-detail"><div class="cd-icon">🕐</div><div><div class="cd-label" data-i18n="cd4l">Office Hours</div><div class="cd-value" data-i18n="cd4v">Mon – Sat, 10:00 AM – 7:00 PM</div></div></div>
+    </div>
+    <div class="fade-up">
+      <form class="resale-form-wrap" onsubmit="handleEnquirySubmit(event)" style="background:#fff;padding:2rem;border-radius:6px;box-shadow:0 4px 20px rgba(13,71,161,.08);">
+        <div class="form-row">
+          <div class="form-group"><label for="e_fname" data-i18n="r_fname">First Name</label><input type="text" id="e_fname" placeholder="Rahul" required/></div>
+          <div class="form-group"><label for="e_lname" data-i18n="r_lname">Last Name</label><input type="text" id="e_lname" placeholder="Sharma" required/></div>
+        </div>
+        <div class="form-group"><label for="e_phone" data-i18n="r_phone">Mobile Number</label><input type="tel" id="e_phone" placeholder="+91 98XXX XXXXX" required/></div>
+        <div class="form-group"><label for="e_email" data-i18n="r_email">Email Address</label><input type="email" id="e_email" placeholder="rahul@email.com"/></div>
+        <div class="form-group">
+          <label for="e_size" data-i18n="e_size">Interested Plot Size</label>
+          <select id="e_size"><option value="" data-i18n="e_size_opt0">Select a size</option><option>800 – 1,000 sq ft</option><option>1,000 – 2,000 sq ft</option><option>2,000 – 5,000 sq ft</option><option data-i18n="e_size_opt4">Not decided yet</option></select>
+        </div>
+        <div class="form-group"><label for="e_msg" data-i18n="e_msg">Message (Optional)</label><textarea id="e_msg" placeholder="Any questions or specific requirements..."></textarea></div>
+        <button type="submit" class="form-submit" data-i18n="e_submit">Send Enquiry →</button>
+        <p class="form-note" data-i18n="form_conf">Your details are kept strictly confidential. No spam, ever.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-grid">
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Omaxe_logo.svg/320px-Omaxe_logo.svg.png" onerror="this.style.display='none'" class="footer-logo-img" alt="Omaxe" />
+      <p class="footer-desc" data-i18n="footer_desc">A premium integrated township on Indore's Super Corridor by the Omaxe Group.</p>
+      <div class="footer-disclaimer" data-i18n="footer_disclaimer">This website is for informational purposes only. Prices subject to change. RERA registration under process. Images for representation only.</div>
+    </div>
+    <div class="footer-col">
+      <h4 data-i18n="footer_quick">Quick Links</h4>
+      <ul class="footer-links">
+        <li><a href="#about">About Project</a></li>
+        <li><a href="#amenities">Amenities</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#other-projects">Our Projects</a></li>
+        <li><a href="#location">Location</a></li>
+        <li><a href="#resale">Resale</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Omaxe Projects</h4>
+      <ul class="footer-links">
+        <li><a href="#other-projects">Omaxe City 1</a></li>
+        <li><a href="#other-projects">Omaxe City 2</a></li>
+        <li><a href="#other-projects">Omaxe Hills</a></li>
+        <li><a href="https://www.omaxe.com" target="_blank">All Projects →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Contact</h4>
+      <ul class="footer-links">
+        <li><a href="tel:+91XXXXXXXXXX" data-i18n="footer_call">Call Us</a></li>
+        <li><a href="https://wa.me/91XXXXXXXXXX" data-i18n="footer_wa">WhatsApp</a></li>
+        <li><a href="mailto:info@omaxesupercorridor.com" data-i18n="footer_email">Email</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p data-i18n="footer_copy">© 2025 Omaxe Super Corridor Indore. All rights reserved.</p>
+    <p>Developed with ♥ in India</p>
+  </div>
+</footer>
+
+<!-- STICKY CTA -->
+<div class="sticky-cta">
+  <a href="https://wa.me/91XXXXXXXXXX?text=Hi%2C%20I%20am%20interested%20in%20Omaxe%20Super%20Corridor%20Indore" class="sticky-btn whatsapp" target="_blank">💬 WhatsApp</a>
+  <a href="tel:+91XXXXXXXXXX" class="sticky-btn">📞 Call Now</a>
+</div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox(event)">
+  <div class="lightbox-inner">
+    <button class="lightbox-close" onclick="document.getElementById('lightbox').classList.remove('open')">✕</button>
+    <div class="lightbox-img-area"><div style="font-size:3rem;opacity:.3">🖼️</div></div>
+    <div class="lightbox-body">
+      <h3 id="lightbox-title" style="font-family:var(--ff-display);font-size:1.4rem;color:var(--dark-mid);margin-bottom:.5rem;"></h3>
+      <p id="lightbox-desc" style="font-size:.9rem;color:#556;line-height:1.7;"></p>
+      <p style="font-size:.78rem;color:#aaa;margin-top:1rem;">📸 Upload your actual project photo here.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+const T={en:{nav_about:'About',nav_amenities:'Amenities',nav_gallery:'Gallery',nav_location:'Location',nav_news:'News',nav_resale:'Resale',nav_contact:'Contact',nav_enquire:'Enquire Now',hero_badge:'Pre-launch · RERA Applied · Super Corridor, Indore',hero_h1:'Madhya Pradesh\'s <em>first</em><br/>integrated township',hero_sub:'A 450-acre integrated township on Indore\'s fastest-growing Super Corridor — blending premium residential plots, world-class amenities, and long-term investment value.',hero_cta1:'Book a Site Visit',hero_cta2:'Explore Plots',stat1:'Acres of Township',stat4:'Expected Possession',hl1:'Project Investment',hl2:'Sq Ft Delivered by Omaxe',hl3:'Cities Pan-India',hl4:'Industry Awards',about_label:'About the Project',about_title:'An <em>Integrated Township</em> Built for Tomorrow',about_note:'Integrated Township',about_p1:'Omaxe Super Corridor Indore is a landmark residential plotting project strategically located in Indore\'s Super Corridor — the city\'s most dynamic growth zone.',about_p2:'The township spans 450 acres with a ₹1,200 crore investment, offering a self-sustained ecosystem with residential plots, commercial spaces, and healthcare facilities.',about_p3:'Whether you\'re a family seeking a dream home or an investor, Omaxe Super Corridor offers an unmatched opportunity.',feat1:'Gated community',feat2:'Wide internal roads',feat3:'24×7 security',feat4:'Landscaped greens',feat5:'RERA applied',feat6:'Bank loan facility',feat7:'Commercial & retail',feat8:'Metro connectivity',amenities_label:'Amenities & Lifestyle',amenities_title:'Everything You Need, <em>Inside</em> the Township',am1:'Open Gym for Kids',am2:'Pedestrian Jogging / Walking Track',am3:'Parks',am4:'Water Supply',am5:'Car Parking',am6:'Prime Location',am7:'Garden',am8:'24 Hr Security',am9:'RO Water System',am10:'Parking',loc_label:'Location Advantage',loc_title:'At the <em>Centre</em> of Indore\'s Growth Story',lp1l:'Devi Ahilya Airport',lp1v:'Approx. 15–20 minutes drive',lp2l:'Indore Metro',lp2v:'Metro line extending to Super Corridor',lp3l:'IT & Business Hubs',lp3v:'TCS, Infosys campuses & SEZ within close reach',lp4l:'Top Institutions',lp4v:'IIM Indore, DAVV, Symbiosis & leading schools nearby',lp5l:'Healthcare',lp5v:'Multi-speciality hospitals within 10 km',lp6l:'Super Corridor Road',lp6v:'Direct access to Indore\'s primary arterial road',dev_label:'The Developer',dev_title:'Backed by <em>35+ Years</em> of Trust',dev_p1:'Omaxe Group, founded in 1987, has delivered more than 119 million sq ft across 27 cities.',dev_p2:'Over 200 industry awards. Committed to innovation and sustainable communities.',ds1:'Year Founded',ds2:'Sq Ft Delivered',ds3:'Cities',ds4:'Awards Won',news_label:'News & Media Coverage',news_title:'Omaxe in the <em>Spotlight</em>',news1_title:'Omaxe Group Announces ₹1,200 Crore Township on Indore Super Corridor',news1_exc:'Omaxe Group has unveiled its ambitious 450-acre integrated township on Indore\'s fastest-growing corridor.',news3_date:'Project Location',news3_title:'View Omaxe Super Corridor on Google Maps',news3_exc:'Explore the exact project site on Super Corridor, Indore.',news3_link:'Open Full Map →',news_read:'Read Article →',news_press_cta:'Media Enquiry →',resale_label:'Resale Listings',resale_title:'List Your Plot for <em>Resale</em>',resale_intro:'Already own a plot in Omaxe Super Corridor? List it with us and reach thousands of genuine buyers.',resale_how_title:'How Resale Works',resale_how_p:'Submit your listing details and property documents. Our team will verify and connect you with qualified buyers.',rs1:'Fill the resale form with your contact info and property details.',rs2:'Upload your property documents (sale deed, plot papers, NOC, etc.).',rs3:'Our team reviews and contacts you within 48 hours.',rs4:'Your listing goes live and is shared with active buyers.',resale_note_label:'Note',resale_note:'All property documents are reviewed in strict confidence. Listing is free for registered plot owners.',r_fname:'First Name',r_lname:'Last Name',r_phone:'Contact Number',r_email:'Email Address',r_property_section:'Property Details',r_plotno:'Plot Number / Block',r_plotsize:'Plot Size (sq ft)',r_askprice:'Asking Price (₹)',r_details:'Additional Details',r_docs:'Property Documents (PDF / JPG / PNG)',r_upload_text:'Click to upload documents',r_upload_hint:'Sale deed, plot papers, NOC, Aadhar — max 10MB each',r_submit:'Submit Resale Listing →',r_note:'Documents handled with full confidentiality. Team contacts you within 48 hours.',contact_label:'Get In Touch',contact_title:'Take the First Step to Your <em>Dream</em> Home',contact_p:'Our advisors are ready to answer your queries about plots, pricing, payment plans, and site visits.',cd1l:'Phone / WhatsApp',cd2l:'Email',cd3l:'Site Location',cd3v:'Super Corridor, Indore, Madhya Pradesh',cd4l:'Office Hours',cd4v:'Mon – Sat, 10:00 AM – 7:00 PM',e_size:'Interested Plot Size',e_size_opt0:'Select a size',e_size_opt4:'Not decided yet',e_msg:'Message (Optional)',e_submit:'Send Enquiry →',form_conf:'Your details are kept strictly confidential. No spam, ever.',footer_desc:'A premium integrated township on Indore\'s Super Corridor by the Omaxe Group.',footer_disclaimer:'This website is for informational purposes only. Prices subject to change. RERA registration under process.',footer_quick:'Quick Links',footer_call:'Call Us',footer_wa:'WhatsApp',footer_email:'Email',footer_copy:' 2025 Omaxe Super Corridor Indore. All rights reserved.'},hi:{nav_about:'परिचय',nav_amenities:'सुविधाएं',nav_gallery:'गैलरी',nav_location:'स्थान',nav_news:'समाचार',nav_resale:'री-सेल',nav_contact:'संपर्क',nav_enquire:'पूछताछ करें',hero_badge:'प्री-लॉन्च · RERA आवेदित · सुपर कॉरिडोर, इंदौर',hero_h1:'मध्य प्रदेश की <em>पहली</em><br/>एकीकृत टाउनशिप',hero_sub:'इंदौर के सबसे तेज़ी से बढ़ते सुपर कॉरिडोर पर 450 एकड़ की एकीकृत टाउनशिप।',hero_cta1:'साइट विजिट बुक करें',hero_cta2:'प्लॉट देखें',stat1:'एकड़ टाउनशिप',stat4:'अपेक्षित कब्जा',hl1:'परियोजना निवेश',hl2:'ओमैक्स द्वारा वर्ग फुट डिलीवर',hl3:'अखिल भारत शहर',hl4:'उद्योग पुरस्कार',about_label:'परियोजना के बारे में',about_title:'<em>एकीकृत टाउनशिप</em> — कल के लिए निर्मित',about_note:'एकीकृत टाउनशिप',about_p1:'ओमैक्स सुपर कॉरिडोर इंदौर — इंदौर के सबसे गतिशील विकास क्षेत्र में स्थित।',about_p2:'टाउनशिप 450 एकड़ में फैली है, ₹1,200 करोड़ के निवेश के साथ।',about_p3:'ओमैक्स सुपर कॉरिडोर एक अतुलनीय अवसर प्रदान करता है।',feat1:'गेटेड समुदाय',feat2:'चौड़ी आंतरिक सड़कें',feat3:'24×7 सुरक्षा',feat4:'हरित उद्यान',feat5:'RERA आवेदित',feat6:'बैंक ऋण सुविधा',feat7:'व्यावसायिक और खुदरा',feat8:'मेट्रो कनेक्टिविटी',amenities_label:'सुविधाएं और जीवनशैली',amenities_title:'टाउनशिप के <em>अंदर</em> सब कुछ',am1:'बच्चों के लिए खुला जिम',am2:'पैदल / जॉगिंग ट्रैक',am3:'पार्क',am4:'जल आपूर्ति',am5:'कार पार्किंग',am6:'प्रमुख स्थान',am7:'बगीचा',am8:'24 घंटे सुरक्षा',am9:'RO जल प्रणाली',am10:'पार्किंग',loc_label:'स्थान लाभ',loc_title:'इंदौर की <em>विकास गाथा</em> के केंद्र में',lp1l:'देवी अहिल्या हवाई अड्डा',lp1v:'लगभग 15–20 मिनट की ड्राइव',lp2l:'इंदौर मेट्रो',lp2v:'मेट्रो लाइन सुपर कॉरिडोर तक विस्तारित',lp3l:'IT और व्यापारिक केंद्र',lp3v:'TCS, Infosys कैंपस और SEZ पास में',lp4l:'प्रमुख संस्थान',lp4v:'IIM इंदौर, DAVV, सिम्बायोसिस नज़दीक',lp5l:'स्वास्थ्य सेवा',lp5v:'10 km के भीतर मल्टी-स्पेशियलिटी अस्पताल',lp6l:'सुपर कॉरिडोर रोड',lp6v:'इंदौर की मुख्य सड़क तक सीधी पहुंच',dev_label:'डेवलपर',dev_title:'<em>35+ वर्षों</em> के विश्वास का भरोसा',dev_p1:'ओमैक्स ग्रुप की स्थापना 1987 में हुई। 27 शहरों में 119 मिलियन वर्ग फुट डिलीवर।',dev_p2:'200+ पुरस्कार जीते। नवाचार और टिकाऊ समुदायों के प्रति समर्पित।',ds1:'स्थापना वर्ष',ds2:'वर्ग फुट डिलीवर',ds3:'शहर',ds4:'पुरस्कार',news_label:'समाचार और मीडिया',news_title:'ओमैक्स <em>चर्चा में</em>',news1_title:'ओमैक्स ग्रुप ने ₹1,200 करोड़ की टाउनशिप की घोषणा की',news1_exc:'ओमैक्स ग्रुप ने 450 एकड़ की टाउनशिप परियोजना का अनावरण किया।',news3_date:'परियोजना स्थान',news3_title:'गूगल मैप्स पर ओमैक्स सुपर कॉरिडोर देखें',news3_exc:'सुपर कॉरिडोर, इंदौर पर परियोजना का सटीक स्थान देखें।',news3_link:'पूरा नक्शा खोलें →',news_read:'लेख पढ़ें →',news_press_cta:'मीडिया पूछताछ →',resale_label:'री-सेल लिस्टिंग',resale_title:'अपना प्लॉट <em>री-सेल</em> करें',resale_intro:'क्या आप ओमैक्स सुपर कॉरिडोर में प्लॉट के मालिक हैं? हमारे साथ लिस्ट करें।',resale_how_title:'री-सेल कैसे काम करता है',resale_how_p:'अपने लिस्टिंग विवरण और संपत्ति दस्तावेज़ जमा करें।',rs1:'फॉर्म भरें।',rs2:'दस्तावेज़ अपलोड करें।',rs3:'48 घंटे में संपर्क।',rs4:'लिस्टिंग लाइव होगी।',resale_note_label:'नोट',resale_note:'सभी दस्तावेज़ पूर्ण गोपनीयता के साथ। पंजीकृत मालिकों के लिए निःशुल्क।',r_fname:'पहला नाम',r_lname:'अंतिम नाम',r_phone:'संपर्क नंबर',r_email:'ईमेल पता',r_property_section:'संपत्ति विवरण',r_plotno:'प्लॉट नंबर / ब्लॉक',r_plotsize:'प्लॉट आकार',r_askprice:'मांग मूल्य (₹)',r_details:'अतिरिक्त विवरण',r_docs:'संपत्ति दस्तावेज़',r_upload_text:'दस्तावेज़ अपलोड करें',r_upload_hint:'अधिकतम 10MB',r_submit:'पुनर्विक्रय सूची जमा करें →',r_note:'दस्तावेज़ पूर्ण गोपनीयता के साथ संभाले जाते हैं। टीम 48 घंटे के भीतर आपसे संपर्क करती है।',contact_label:'संपर्क करें',contact_title:'अपने <em>सपने</em> के घर के पहले कदम बढ़ाएं',contact_p:'हमारे सलाहकार प्लॉट, मूल्य निर्धारण, भुगतान योजनाओं और साइट विजिट के बारे में आपके प्रश्नों का जवाब देने के लिए तैयार हैं।',cd1l:'फोन / व्हाट्सएप',cd2l:'ईमेल',cd3l:'साइट स्थान',cd3v:'सुपर कॉरिडोर, इंदौर, मध्य प्रदेश',cd4l:'कार्यालय समय',cd4v:'सोम – शनि, सुबह 10:00 – शाम 7:00',e_size:'इच्छित प्लॉट आकार',e_size_opt0:'एक आकार चुनें',e_size_opt4:'अभी तय नहीं',e_msg:'संदेश (वैकल्पिक)',e_submit:'पूछताछ भेजें →',form_conf:'आपकी जानकारी सख्ती से गोपनीय रखी जाती है। कभी स्पैम नहीं।',footer_desc:'ओमैक्स ग्रुप द्वारा इंदौर के सुपर कॉरिडोर पर एक प्रीमियम एकीकृत टाउनशिप।',footer_disclaimer:'यह वेबसाइट केवल सूचना उद्देश्यों के लिए है। मूल्य परिवर्तन के अधीन। रेरा पंजीकरण प्रक्रिया में। केवल प्रतिनिधि के लिए चित्र।',footer_quick:'त्वरित लिंक',footer_call:'हमें कॉल करें',footer_wa:'व्हाट्सएप',footer_email:'ईमेल',footer_copy:' 2025 ओमैक्स सुपर कॉरिडोर इंदौर। सभी अधिकार सुरक्षित।'}};let L='en';function setLang(e){L=e,document.querySelectorAll('.lang-btn').forEach(t=>t.classList.remove('active')),document.getElementById('btn-'+e).classList.add('active'),updateLang()}function updateLang(){document.querySelectorAll('[data-i18n]').forEach(e=>{const t=e.getAttribute('data-i18n'),n=T[L][t];n&&(e.innerHTML=n)})}function switchTab(e){document.querySelectorAll('.gallery-tab').forEach(t=>t.classList.remove('active')),document.querySelectorAll('.gallery-panel').forEach(t=>t.classList.remove('active')),event.target.classList.add('active'),document.getElementById('tab-'+e).classList.add('active')}function openLightbox(e,t){document.getElementById('lightbox-title').textContent=e,document.getElementById('lightbox-desc').textContent=t,document.getElementById('lightbox').classList.add('open')}function closeLightbox(e){e.target===e.currentTarget&&document.getElementById('lightbox').classList.remove('open')}function showFileNames(e){const t=Array.from(e.files).map(e=>e.name).join(', ');document.getElementById('fileNameDisplay').textContent=t}function handleResaleSubmit(e){e.preventDefault();const t=new FormData(e.target),n=Object.fromEntries(t.entries());console.log('Resale form submitted:',n),alert('Thank you! Your resale listing has been submitted. Our team will contact you within 48 hours.'),e.target.reset()}function handleEnquirySubmit(e){e.preventDefault();const t=new FormData(e.target),n=Object.fromEntries(t.entries());console.log('Enquiry form submitted:',n),alert('Thank you for your enquiry! Our advisor will contact you shortly.'),e.target.reset()}document.addEventListener('DOMContentLoaded',()=>{const e=document.querySelectorAll('.fade-up');const t=new IntersectionObserver((t,n)=>{t.forEach(t=>{t.isIntersecting&&(t.target.classList.add('visible'),n.unobserve(t.target))})},{threshold:.1});e.forEach(e=>t.observe(e)),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener('click',t=>{t.preventDefault();const n=e.getAttribute('href');if(n==='#')return;const s=document.querySelector(n);s&&s.scrollIntoView({behavior:'smooth',block:'start'})})}),updateLang()});
+</script>
+</body>
+</html>
